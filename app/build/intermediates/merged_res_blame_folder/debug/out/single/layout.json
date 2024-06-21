@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_register.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_splashscreen.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/fragment_scan.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/fragment_scan.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_tutor.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_tutor.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_login.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/classification_result_item.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/classification_result_item.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/fragment_profile.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_camera.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_camera.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_penyakitl.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_penyakitl.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_result.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_result.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/fragment_history.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/fragment_history.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/article_item.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/article_item.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/fragment_news.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/fragment_news.xml"
+    },
+    {
+        "merged": "com.dicoding.asclepius.app-mergeDebugResources-47:/layout/activity_deskripsi.xml",
+        "source": "com.dicoding.asclepius.app-main-50:/layout/activity_deskripsi.xml"
+    }
+]
