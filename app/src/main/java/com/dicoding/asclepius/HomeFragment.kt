@@ -32,7 +32,7 @@ class HomeFragment : Fragment() {
         }
 
         binding.Topics.setOnClickListener {
-            navigateToActivity(BellActivity::class.java)
+            navigateToActivity(HowActivity::class.java)
         }
         binding.Potato.setOnClickListener {
             navigateToActivity(PotActivity::class.java)
